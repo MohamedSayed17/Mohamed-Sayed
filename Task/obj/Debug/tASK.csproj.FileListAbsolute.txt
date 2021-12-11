@@ -1,0 +1,10 @@
+C:\Users\mohamed.sayed\source\repos\tASK\tASK\bin\Debug\tASK.exe.config
+C:\Users\mohamed.sayed\source\repos\tASK\tASK\bin\Debug\tASK.exe
+C:\Users\mohamed.sayed\source\repos\tASK\tASK\bin\Debug\tASK.pdb
+C:\Users\mohamed.sayed\source\repos\tASK\tASK\obj\Debug\tASK.csproj.AssemblyReference.cache
+C:\Users\mohamed.sayed\source\repos\tASK\tASK\obj\Debug\tASK.Form1.resources
+C:\Users\mohamed.sayed\source\repos\tASK\tASK\obj\Debug\tASK.Properties.Resources.resources
+C:\Users\mohamed.sayed\source\repos\tASK\tASK\obj\Debug\tASK.csproj.GenerateResource.cache
+C:\Users\mohamed.sayed\source\repos\tASK\tASK\obj\Debug\tASK.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.sayed\source\repos\tASK\tASK\obj\Debug\tASK.exe
+C:\Users\mohamed.sayed\source\repos\tASK\tASK\obj\Debug\tASK.pdb
